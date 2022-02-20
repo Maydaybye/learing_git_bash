@@ -1,0 +1,1 @@
+git reset --soft只会对commit用到的那个空间有影响，而git reset --hard会对本地产生影响
